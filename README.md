@@ -26,7 +26,7 @@ It remains **fixed** at the top and is visible on all pages.
 
 ## 🛠️ How to Run the Project
 1. **Clone the repository**
-git clone https://github.com/prajwal02/SCT_WD_1.git
+git clone https://github.com/prajwal023/SCT_WD_1.git
 
 2. **Navigate to the project folder**
    cd SCT_WD_1
